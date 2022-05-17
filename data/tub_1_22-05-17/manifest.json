@@ -1,5 +1,5 @@
 ["cam/image_array", "user/angle", "user/throttle", "user/mode"]
 ["image_array", "float", "float", "str"]
 {}
-{"created_at": 1652777706.2156916}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog"], "current_index": 2009, "max_len": 1000, "deleted_indexes": []}
+{"created_at": 1652788375.4799607}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog"], "current_index": 3899, "max_len": 1000, "deleted_indexes": []}
